@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Pf7sgVPyEeus-pyfLBXRJg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Pf8TkFPyEeus-pyfLBXRJg" bindingContexts="_Pf8TklPyEeus-pyfLBXRJg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Min4.java&quot; tooltip=&quot;chap01/src/chap01/Min4.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Min4.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Min3.java&quot; tooltip=&quot;chap01/src/chap01/Min3.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Min3.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Max4.java&quot; tooltip=&quot;chap01/src/chap01/Max4.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Max4.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GaussAdd.java&quot; tooltip=&quot;chap01/src/chap01/GaussAdd.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/GaussAdd.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumFor.java&quot; tooltip=&quot;chap01/src/chap01/SumFor.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/SumFor.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Min4.java&quot; tooltip=&quot;chap01/src/chap01/Min4.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Min4.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Min3.java&quot; tooltip=&quot;chap01/src/chap01/Min3.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Min3.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Max4.java&quot; tooltip=&quot;chap01/src/chap01/Max4.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/chap01/src/chap01/Max4.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_Pf8TkFPyEeus-pyfLBXRJg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_QCEwQVPyEeus-pyfLBXRJg" label="%trimmedwindow.label.eclipseSDK" x="38" y="38" width="1024" height="768">
@@ -93,7 +93,7 @@
                 <tags>categoryTag:Java Browsing</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_QadbF1PyEeus-pyfLBXRJg" containerData="7500" selectedElement="_QadbHlPyEeus-pyfLBXRJg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_QadbF1PyEeus-pyfLBXRJg" containerData="7500" selectedElement="_QadbGFPyEeus-pyfLBXRJg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_QadbGFPyEeus-pyfLBXRJg" containerData="7000" selectedElement="_QadbGVPyEeus-pyfLBXRJg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_QadbGVPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_QaDLYFPyEeus-pyfLBXRJg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_QadbGlPyEeus-pyfLBXRJg" elementId="topRight" containerData="3000" selectedElement="_QadbG1PyEeus-pyfLBXRJg">
@@ -200,7 +200,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_QaDLYFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.editorss" selectedElement="_QaDLYVPyEeus-pyfLBXRJg">
-      <children xsi:type="basic:PartStack" xmi:id="_QaDLYVPyEeus-pyfLBXRJg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_z5ge4FP4Eeus-pyfLBXRJg">
+      <children xsi:type="basic:PartStack" xmi:id="_QaDLYVPyEeus-pyfLBXRJg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_fRy6IFSfEeuZRPVPcEFuRg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -221,6 +221,18 @@
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_zM_IIFSdEeuZRPVPcEFuRg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SumFor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumFor.java&quot; partName=&quot;SumFor.java&quot; title=&quot;SumFor.java&quot; tooltip=&quot;chap01/src/chap01/SumFor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/chap01/src/chap01/SumFor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;438&quot; selectionTopPixel=&quot;106&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_fRy6IFSfEeuZRPVPcEFuRg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GaussAdd.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GaussAdd.java&quot; partName=&quot;GaussAdd.java&quot; title=&quot;GaussAdd.java&quot; tooltip=&quot;chap01/src/chap01/GaussAdd.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/chap01/src/chap01/GaussAdd.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;362&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
         </children>
@@ -229,7 +241,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_QaOKgFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1610358563475&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_QhrdYFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -365,7 +377,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QDzOkFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_QD-NsFPyEeus-pyfLBXRJg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_Pg6kAFPyEeus-pyfLBXRJg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_rJFjIFSdEeuZRPVPcEFuRg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Pg6kAFPyEeus-pyfLBXRJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QDz1oFPyEeus-pyfLBXRJg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -402,7 +414,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QD0csFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_QD_b0FPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Pg58-VPyEeus-pyfLBXRJg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_rJJNgFSdEeuZRPVPcEFuRg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Pg58-VPyEeus-pyfLBXRJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QD0csVPyEeus-pyfLBXRJg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3096,7 +3108,7 @@
   <addons xmi:id="_Pf8ToVPyEeus-pyfLBXRJg" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_Pf8TolPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_PgFdgFPyEeus-pyfLBXRJg" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_p1wTAFSdEeuZRPVPcEFuRg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_PglMwFPyEeus-pyfLBXRJg" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_PglMwVPyEeus-pyfLBXRJg" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>

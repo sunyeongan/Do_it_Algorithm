@@ -1,0 +1,31 @@
+package chap01;
+import java.util.Scanner;
+
+//1+2...+n의 합을 구하라 
+
+public class SumFor {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.print("n의 값을 입력하세요 : ");
+		int n = scan.nextInt();
+		
+		int sum = 0;
+		
+		for(int i=1; i<=n; i++) {
+			sum+=i;
+			if(i<n) {
+				System.out.print(i+"+");
+			}
+			
+			
+			
+		}
+		System.out.print("="+sum);
+		
+
+	}
+
+}
