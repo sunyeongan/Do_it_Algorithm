@@ -13,7 +13,14 @@ public class GaussAdd {
 		
 		int gsum = 0;
 		
-		gsum = (1+n)*5;
+		if(n%2 == 0) {// 입력 받은 수가 짝수라면 
+			
+			gsum = (1+n)*((1+n)/2);
+		}
+		else {
+			gsum = (1+n)*((1+n)/2) - (1+n)/2;
+		}
+		
 		
 		System.out.print("1부터 " + n + "까지의 합은 : " + gsum);
 		
